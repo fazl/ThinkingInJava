@@ -5,7 +5,7 @@ public class LostExceptionPitfallEckel {
     //
     // When I run this in java 8 I see :
     //
-    //Exception in thread "main" Trivial
+    //Exception in thread "main" HoHumException
     //	at LostExceptionPitfallEckel.main(LostExceptionPitfallEckel.java:19)
     public static void main(String[] args) throws Exception {
         try {
